@@ -20,7 +20,7 @@ Tasks completed:
 - ✅ Filled missing values for 2021/2022 and 2022/2023 transfer records using data from the `Countries` sheet.
 - ✅ Used **Text-to-Columns** to showcase country details cleanly.
 - ✅ Reviewed and corrected inconsistencies in the `Season` column using **filters** and **Find and Replace**.
-- ✅ Filled in missing `Continent` values using logical lookup references and consistency checks.
+- ✅ Filled in missing `Continent` values using XLOOKUP and INDEX-MATCH formulas to dynamically reference and match data from `Countries` sheet
 
 ---
 
