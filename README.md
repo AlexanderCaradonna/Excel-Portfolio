@@ -18,9 +18,11 @@ Performed in Excel using the **Database** and **Countries** sheets from the sour
 
 Tasks completed:
 - ✅ Cleaned and separated unstructured country data in the `Countries` sheet using **Text-to-Columns**, making the data usable for lookups and analysis.
+- ✅ Formatted numerical data to improve clarity — including applying currency formats to transfer fees and using comma separators for large numbers.
 - ✅ Populated missing values in the `Database` sheet for the 2021/2022 and 2022/2023 seasons by referencing the cleaned data in the `Countries` sheet.
 - ✅ Reviewed and corrected inconsistencies in the Season column using **Filters** and **Find and Replace** to standardize year formats.
 - ✅ Used **XLOOKUP** and **INDEX-MATCH** formulas to dynamically match and fill missing Continent values in the `Database` sheet based on country information.
+
 
 
 
