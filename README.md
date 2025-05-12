@@ -17,10 +17,12 @@ This Excel project showcases my ability to **clean raw data**, **extract insight
 Performed in Excel using the **Database** and **Countries** sheets from the source file.
 
 Tasks completed:
-- ✅ Filled missing values for 2021/2022 and 2022/2023 transfer records using data from the `Countries` sheet.
-- ✅ Used **Text-to-Columns** to showcase country details cleanly.
-- ✅ Reviewed and corrected inconsistencies in the `Season` column using **filters** and **Find and Replace**.
-- ✅ Filled in missing `Continent` values using XLOOKUP and INDEX-MATCH formulas to dynamically reference and match data from `Countries` sheet
+- ✅ Cleaned and separated unstructured country data in the `Countries` sheet using **Text-to-Columns**, making the data usable for lookups and analysis.
+- ✅ Populated missing values in the `Database` sheet for the 2021/2022 and 2022/2023 seasons by referencing the cleaned data in the `Countries` sheet.
+- ✅ Reviewed and corrected inconsistencies in the Season column using **Filters** and **Find and Replace** to standardize year formats.
+- ✅ Used **XLOOKUP** and **INDEX-MATCH** formulas to dynamically match and fill missing Continent values in the `Database` sheet based on country information.
+
+
 
 ---
 
