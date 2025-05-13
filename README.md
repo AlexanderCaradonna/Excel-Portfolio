@@ -49,12 +49,8 @@ Built a second table calculating:
 
 Used a list of unique European countries extracted from the cleaned data.
 
-| Country    | Season     | Transfers In | Transfers Out | Spending (€M) | Revenue (€M) | Net Balance (€M) |
-|------------|------------|---------------|----------------|----------------|----------------|------------------|
-| Germany    | 2022/2023  | [x]           | [x]            | [x]            | [x]            | [x]              |
-| ...        | ...        | ...           | ...            | ...            | ...            | ...              |
+![Capture3](https://github.com/user-attachments/assets/bce3a8ec-9dff-45f0-be6c-efd2b2821dfb)
 
----
 
 ## 💡 Step 4: Key Insights – Top 5 Spenders (2022/2023)
 
