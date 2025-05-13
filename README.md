@@ -56,10 +56,13 @@ Used a list of unique European countries extracted from the cleaned data.
 
 Identified the **top 5 European countries** by **incoming transfers** in the 2022/2023 season.
 
-Calculated:
+Calculated for each of the top countries:
 - Total number of incoming transfers
 - Average Transfer Fee per Player
-- **Average transfer fee per player** = Total Spending / Number of Transfers
+  **Average transfer fee per player** = Total Transfer Spending / Number of Transfers
+- Used `SUMIF` to calculate total transfer spending for each respective country
+- Used the `LARGE` function to dynamically extract the top 5 countries based on total incoming transfers.
+
 
 ### 📈 Visualization
 
@@ -76,9 +79,9 @@ This helps visualize both **volume** and **value** per country.
 
 ## 🧠 Excel Features Used
 
-- ✅ Text-to-Columns for showcasing data
-- ✅ Filters & Find and Replace for cleaning
-- ✅ `SUMIFS`, `SUM`, `XLOOKUP`, `INDEX-MATCH`, `IF`, `LARGE` for analysis
+- ✅ Text-to-Columns for structuring data
+- ✅ Filters & Find and Replace for data cleaning
+- ✅ `SUMIFS`, `SUM`, `XLOOKUP`, `INDEX-MATCH`, `IF`, `LARGE` for data analysis and data extraction
 - ✅ Combo Charts with dual axes for insights
 
 ---
