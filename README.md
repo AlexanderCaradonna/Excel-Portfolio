@@ -62,8 +62,8 @@ Calculated for each of the top countries:
 - Total number of incoming transfers
 - Average Transfer Fee per Player
 - **Average transfer fee per player** = Total Transfer Spending / Number of Incoming Transfers
-- Used `SUMIF` to calculate total transfer spending for each respective country
-- Used the `LARGE` function to dynamically extract the top 5 countries based on total incoming transfers.
+✅ Used `SUMIF` to calculate total transfer spending for each respective country
+✅ Used the `LARGE` function to dynamically extract the top 5 countries based on total incoming transfers.
 
 
 ### 📈 Visualization
