@@ -44,7 +44,7 @@ Created a summary table using `SUMIFS` to compute:
 Built a second table calculating:
 
 - Number of incoming and outgoing transfers per European country
-- Total spending and revenue on transfers
+- Total spending on transfers
 - Net movement and balance by country
 
 Used a list of unique European countries extracted from the cleaned data.
