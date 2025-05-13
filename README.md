@@ -8,7 +8,6 @@ This Excel project showcases my ability to **clean raw data**, **extract insight
 
 - `Football_data_source_RAW.xlsx`: Contains the raw transfer data and country reference information.
 - `Football_Transfers_Analysis.xlsx`: Final Excel workbook including cleaned data, tables, analysis, and visualizations.
-- `screenshots/`: Folder containing images of key tables and charts for preview.
 
 ---
 
