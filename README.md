@@ -69,7 +69,8 @@ A combo chart was created:
 
 This helps visualize both **volume** and **value** per country.
 
-![Capture4](https://github.com/user-attachments/assets/20dc2594-bbcd-42bf-85df-6dd6e128f73b)
+![Capture3](https://github.com/user-attachments/assets/9b9386a3-345e-41a5-9b75-df86b1e6017b)
+
 
 ---
 
@@ -78,7 +79,6 @@ This helps visualize both **volume** and **value** per country.
 - ✅ Text-to-Columns for showcasing data
 - ✅ Filters & Find and Replace for cleaning
 - ✅ `SUMIFS`, `SUM`, `XLOOKUP`, `INDEX-MATCH`, `IF`, `LARGE` for analysis
-- ✅ Dynamic PivotTables for summarization
 - ✅ Combo Charts with dual axes for insights
 
 ---
