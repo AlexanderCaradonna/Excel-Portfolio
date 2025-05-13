@@ -69,7 +69,8 @@ A combo chart was created:
 
 This helps visualize both **volume** and **value** per country.
 
-![Top 5 Transfers Chart]( ![Capture4](https://github.com/user-attachments/assets/952299c8-b1f2-4bf3-be77-1cdc0cbbc0d4))
+Top 5 Transfers Chart:
+![Capture4](https://github.com/user-attachments/assets/20dc2594-bbcd-42bf-85df-6dd6e128f73b)
 
 ---
 
