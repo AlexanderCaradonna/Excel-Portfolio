@@ -51,6 +51,8 @@ Used a list of unique European countries extracted from the cleaned data.
 
 ![Capture3](https://github.com/user-attachments/assets/bce3a8ec-9dff-45f0-be6c-efd2b2821dfb)
 
+---
+
 
 ## 💡 Step 4: Key Insights – Top 5 Spenders (2022/2023)
 
