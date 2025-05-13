@@ -30,7 +30,7 @@ Tasks completed:
 
 ## 📊 Step 2: Transfer Balance Table
 
-Created a summary table using `SUMIFS` to compute:
+Created a summary table using `SUMIFS` to compute the number of incoming and outgoing football transfers in Europe across the 2021/2022 and 2022/2023 seasons:
 
 ![Capture](https://github.com/user-attachments/assets/62bcd93c-c823-4b3f-a074-770f397a60cf)
 
@@ -39,13 +39,13 @@ Created a summary table using `SUMIFS` to compute:
 
 ---
 
-## 🔍 Step 3: Country-Level Net Transfer Movement
+## 🔍 Step 3: European Country Net Transfer Movement & Net Balance
 
 Built a second table calculating:
 
 - Number of incoming and outgoing transfers per European country
-- Total spending on transfers
-- Net movement and balance by country
+- Total spending on incoming and outgoing transfers
+- Net movement and balance by European country
 
 Used a list of unique European countries extracted from the cleaned data.
 
@@ -54,11 +54,11 @@ Used a list of unique European countries extracted from the cleaned data.
 
 ## 💡 Step 4: Key Insights – Top 5 Spenders (2022/2023)
 
-Identified the **top 5 European countries** by total spending on **incoming transfers** in the 2022/2023 season.
+Identified the **top 5 European countries** by **incoming transfers** in the 2022/2023 season.
 
 Calculated:
 - Total number of incoming transfers
-- Total amount spent
+- Average Transfer Fee per Player
 - **Average transfer fee per player** = Total Spending / Number of Transfers
 
 ### 📈 Visualization
