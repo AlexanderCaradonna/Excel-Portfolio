@@ -69,7 +69,6 @@ A combo chart was created:
 
 This helps visualize both **volume** and **value** per country.
 
-Top 5 Transfers Chart:
 ![Capture4](https://github.com/user-attachments/assets/20dc2594-bbcd-42bf-85df-6dd6e128f73b)
 
 ---
@@ -78,7 +77,7 @@ Top 5 Transfers Chart:
 
 - ✅ Text-to-Columns for showcasing data
 - ✅ Filters & Find and Replace for cleaning
-- ✅ `SUMIFS`, `COUNTIFS`, and `AVERAGEIFS` for analysis
+- ✅ `SUMIFS`, `SUM`, `XLOOKUP`, `INDEX-MATCH`, `IF`, `LARGE` for analysis
 - ✅ Dynamic PivotTables for summarization
 - ✅ Combo Charts with dual axes for insights
 
