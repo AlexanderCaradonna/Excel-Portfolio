@@ -32,7 +32,8 @@ Tasks completed:
 
 Created a summary table using `SUMIFS` to compute:
 
-![12](https://github.com/user-attachments/assets/f3831a02-07af-435a-9750-ebc79cf09cf4)
+![Capture](https://github.com/user-attachments/assets/62bcd93c-c823-4b3f-a074-770f397a60cf)
+
 
 > This table helps answer: **Does Europe import or export more players overall?**
 
