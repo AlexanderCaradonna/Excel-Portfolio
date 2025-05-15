@@ -100,4 +100,4 @@ This helps visualize both **volume** and **value** per country.
 
 ## 📄 Data Source
 
-*This dataset was extracted from a football transfer data collection Excel file, which includes information about countries, seasons, player movements, and transfer fees. For educational use only.*
+The data used in this project is sourced from the 365 Financial Analyst course, specifically the "Football Transfers" dataset provided in the course materials.
